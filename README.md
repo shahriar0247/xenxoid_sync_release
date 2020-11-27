@@ -4,6 +4,10 @@ Xenxoid Sync allows you to transfer files from your phone to your computer with 
 <br>
 Here are the release files for the desktop app. 
 
+Download:
+https://github.com/shahriar0247/xenxoid_sync_release/releases/download/Stable/Xenxoid.Sync.1.0.Setup.exe
+
+Download previous versions:
 https://github.com/shahriar0247/xenxoid_sync_release/releases/tag/Stable
 
 The source code is hidden.
