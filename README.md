@@ -13,3 +13,5 @@ Usage:
 </ol>
 <br>
 Video demostration: <a href="https://youtu.be/AZ52lVB5Mkk">https://youtu.be/AZ52lVB5Mkk</a>
+
+Releases: https://github.com/shahriar0247/xenxoid_sync_release/releases
